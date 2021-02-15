@@ -58,9 +58,6 @@ header#main-header nav ul li img {
   margin-right: 7px;
 }
 
-header#main-header img {
-}
-
 header#main-header div.side {
   display: flex;
 }
